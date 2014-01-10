@@ -16,4 +16,4 @@
 
 PRODUCT_MAKEFILES := \
     $(LOCAL_DIR)/full_t0lteatt.mk \
-    $(LOCAL_DIR)/omni_t0lteatt.mk
+    $(LOCAL_DIR)/du.mk
