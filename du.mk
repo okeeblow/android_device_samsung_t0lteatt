@@ -13,16 +13,16 @@
 # limitations under the License.
 
 # Inherit GSM configuration
-$(call inherit-product, vendor/omni/config/gsm.mk)
+$(call inherit-product, vendor/du/config/gsm.mk)
 
 # Inherit from our omni product configuration
-$(call inherit-product, vendor/omni/config/common.mk)
+$(call inherit-product, vendor/du/config/common.mk)
 
 # Inherit device configuration
 $(call inherit-product, device/samsung/t0lteatt/full_t0lteatt.mk)
 
 # Discard inherited values and use our own instead.
-PRODUCT_NAME := omni_t0lteatt
+PRODUCT_NAME := du_t0lteatt
 PRODUCT_DEVICE := t0lteatt
 PRODUCT_BRAND := samsung
 PRODUCT_MANUFACTURER := samsung
