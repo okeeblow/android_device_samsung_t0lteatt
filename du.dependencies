@@ -23,5 +23,10 @@
     "repository":   "android_kernel_samsung_smdk4412",
     "target_path":  "kernel/samsung/smdk4412",
     "revision":     "du44"
+  },
+  {
+    "repository":   "proprietary_vendor_samsung",
+    "target_path":  "vendor/samsung",
+    "revision":     "du44"
   }
 ]
