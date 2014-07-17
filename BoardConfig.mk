@@ -23,3 +23,5 @@
 # inherit from the proprietary version
 -include vendor/samsung/t0lte/BoardConfigVendor.mk
 -include vendor/samsung/t0lteatt/BoardConfigVendor.mk
+
+TARGET_KERNEL_CONFIG := psn_i9305_v2.8.4_wolfson_defconfig
