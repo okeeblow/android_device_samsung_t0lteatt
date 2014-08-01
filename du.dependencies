@@ -10,11 +10,6 @@
     "revision":     "du44"
   },
   {
-    "repository":   "android_device_samsung_t0lte",
-    "target_path":  "device/samsung/t0lte",
-    "revision":     "du44"
-  },
-  {
     "repository":   "android_hardware_samsung",
     "target_path":  "hardware/samsung",
     "revision":     "du44"
