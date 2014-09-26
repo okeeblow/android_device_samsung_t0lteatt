@@ -24,4 +24,4 @@
 -include vendor/samsung/t0lte/BoardConfigVendor.mk
 -include vendor/samsung/t0lteatt/BoardConfigVendor.mk
 
-TARGET_KERNEL_CONFIG := psn_n7105_v2.8.3_defconfig
+TARGET_KERNEL_CONFIG := psn_n7105_v2.8.5_defconfig
